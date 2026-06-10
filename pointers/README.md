@@ -26,6 +26,3 @@ This C++ program implements a simple Student Management System using classes and
 Technologies Used: C++, Classes, Objects, Pointers
 
 
-
-These descriptions are concise and look professional on GitHub. ❤️
-
